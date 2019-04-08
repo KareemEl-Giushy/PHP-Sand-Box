@@ -1,0 +1,38 @@
+body {
+					background-color: #FFF;
+				}
+
+				div {
+					padding: 15px;
+					width: 300px;
+					height: 350px;
+					margin: 50px auto;
+					border-radius: 15px 15px 0 0;
+					background-image: url("../I.jpg");
+					background-repeat: round;
+					opacity: .9;
+					color: #FFF;
+					font-size: 18px;
+					font-weight: bold;
+					border: 2px solid tomato
+				}
+
+				div:hover {
+					opacity: 1
+				}
+
+				p {
+					background-color: tomato;
+					border-radius: 5px;
+					padding: 10px;
+					margin: auto;
+					color: #FFF;
+					text-align: center
+				}
+
+				section {
+					position: fixed;
+					color: #777;
+					bottom: 25px;
+					right: 25px
+				}
